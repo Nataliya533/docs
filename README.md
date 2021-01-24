@@ -18,7 +18,7 @@ We accept a lot of [different contributions](CONTRIBUTING.md/#types-of-contribut
 
 #### Click **make a contribution** from docs
 
-As you're using GitHub Docs, you may find something in an article that you'd like to add to, update, or change. Click on **make a contribution** to navigate directly to that article in the codebase, so that you can begin making your contribution.
+As you're using GitHub Docs, you may find something in an article that you did like to add to, update, or change. Click on **make a contribution** to navigate directly to that article in the codebase, so that you can begin making your contribution.
 
 <img src="./assets/images/contribution_cta.png" width="400">
 
@@ -47,7 +47,7 @@ There are a few more things to know when you're getting started with this repo:
 
 ## READMEs
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
+In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more details:
 
 - [content/README.md](content/README.md)
 - [content/graphql/README.md](content/graphql/README.md)
